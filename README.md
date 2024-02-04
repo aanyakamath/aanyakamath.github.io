@@ -1,6 +1,9 @@
 # Aanya Kamath's Home Page
 
+## About me
+
 [Resume](https://aanyakamath.github.io/resume/resume.pdf)
+[Code](https://www.github.com/aanyakamath)
 
 ## Publications
 
