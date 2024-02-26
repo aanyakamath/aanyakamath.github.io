@@ -7,7 +7,7 @@
 
 ## Publications
 
-* "A Survey of Genetic Risk Factors for Alzheimer’s Disease", July 2023, Accepted for publication in Journal of Student Research [High School Edition], [https://aanyakamath.github.io/papers/alz_survey.pdf](https://aanyakamath.github.io/papers/alz_survey.pdf)
+* "A Survey of Genetic Risk Factors for Alzheimer’s Disease", November 2023, A Survey of Genetic Risk Factors for Alzheimer’s Disease. Journal of Student Research, 12(4)., [https://www.jsr.org/hs/index.php/path/article/view/5246](https://www.jsr.org/hs/index.php/path/article/view/5246)
 
 This paper surveys surveys the different genetic variants that affect risk for Alzheimer’s Disease, discusses the prevalence of each risk factor, and their effect on Alzheimer’s Disease pathology.
 
