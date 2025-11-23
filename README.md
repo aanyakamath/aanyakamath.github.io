@@ -4,6 +4,7 @@
 
 * [Resume](https://aanyakamath.github.io/resume/Resume.pdf)
 * [Code](https://www.github.com/aanyakamath)
+* [Personal Statement](https://github.com/aanyakamath/main/personal_statement.pdf)
 
 ## Publications
 
