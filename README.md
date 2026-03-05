@@ -2,7 +2,7 @@
 
 ## About me
 
-* [Resume](https://aanyakamath.github.io/resume/Resume.pdf)
+* [Resume](https://aanyakamath.github.io/resume/Resume (1).pdf)
 * [Code](https://www.github.com/aanyakamath)
 * [Personal Statement](https://aanyakamath.github.io/personal_statement.pdf)
 
